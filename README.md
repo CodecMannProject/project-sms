@@ -12,8 +12,9 @@ Small app for chatting in local network
 ## ToDo List:
 
 - [x] Connect to git
-- [ ] 123
-- [ ] 1234
+- [] More admin commands
+- [ ] Work with global IP's
+- [ ] Bot System
 
 
 ___
