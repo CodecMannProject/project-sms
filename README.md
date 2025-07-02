@@ -1,6 +1,7 @@
 # Project: SMS
 
 Small app for chatting in local network
+(App's in beta, expect bugs)
 
 ## Commands:
 
